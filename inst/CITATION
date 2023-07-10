@@ -1,0 +1,14 @@
+citHeader("To cite PolarCAP in publications use:")
+
+bibentry(
+  bibtype    = "Unpublished",
+  title    = "Mass Polarization across Time and Space",
+  author   = "Isaac D. Mehlhaff",
+  address = NA,
+  year     = "2023",
+  url      = NA,
+  note = "Book manuscript",
+  textVersion = paste(
+
+  )
+)
